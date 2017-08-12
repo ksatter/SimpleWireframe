@@ -7,13 +7,13 @@ body {
 }
 
 
-.header{
+header{
 	background-color: lightgray;
 	padding:10px;
 	margin: 10px;
 }
 
-.nav{
+nav{
 	background-color: lightgray;
 	padding:10px;
 	margin: 10px;
